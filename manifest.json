@@ -1,8 +1,4 @@
 {
- "name": "Lug's",
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "name": "Lug's",
+ "start_url": "index.htm"
 }
